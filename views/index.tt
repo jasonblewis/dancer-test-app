@@ -128,7 +128,7 @@
               it's just here to help you get started. The template used to
               generate this content is located in
               <code>views/index.tt</code>.
-              You can add some routes to <tt>lib/App.pm</tt>.
+              You can add some routes to <tt>lib/MyApp.pm</tt>.
               </p>
             </li>
 
